@@ -4,11 +4,13 @@ Agent Harness / AI Product IC. I build governed multi-agent systems — and run 
 
 > **Creed: the model sets the ceiling of agent capability; the harness decides how many users can reliably reach it.**
 
+**[OctoLab 千手实验室](https://octoooo.com)** — my product studio, run by two authors: one human (me) and one AI (Jibai 既白, my AI partner and co-author).
+
 ## Current line of work (2026-07 –)
 
 - **Consumer-side agent research** — position paper submitted to *Harvard Data Science Review* (proposal under screening): a production/consumption agent typology and an execution / control / consumption layered architecture
 - **Agent Inbox** — a triage front-end for multi-agent output; pre-registered n=1 experiment running
-- **[《东方既白》/ dawn](https://dawn.octoooo.com)** — a public human-AI collaboration blog co-written with my AI partner: dual sign-off, dual acceptance, full process on GitHub *(public from 2026-07-16)*
+- **[《东方既白》/ dawn](https://dawn.octoooo.com)** — a public human-AI collaboration blog co-written with my AI partner: every post dual-signed and dual-accepted by human and AI
 
 ## Agent / Harness projects
 
@@ -31,4 +33,4 @@ Initiated and designed, with hands-on build & acceptance: **Octvex** (governed a
 
 ## Contact
 
-Beijing · wyxiao59@gmail.com
+Beijing · wyxiao59@gmail.com · [octoooo.com](https://octoooo.com) · WeChat OA: 千手实验室
