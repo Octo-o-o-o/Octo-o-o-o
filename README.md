@@ -16,7 +16,7 @@ Agent Harness / AI Product IC. I build governed multi-agent systems — and run 
 
 | Project | What it is | Status |
 |---|---|---|
-| OpenClaw Multi-Agent Kit | Multi-role orchestration: contract-driven dispatch, spec inference, independent acceptance Gate, tiered recovery; ran a full-line deepseek-v4 evaluation (200+ production sessions, same-task cross-model comparison) | private · demo on request |
+| [openclaw-multi-agent-kit](https://github.com/Octo-o-o-o/openclaw-multi-agent-kit) | Multi-role orchestration: contract-driven dispatch, spec inference, independent acceptance gates, tiered recovery — the governance layer I run daily as my own heaviest user | **open source** |
 | [OctoDesk（千手）](https://qianshou.octoooo.com) | Local-first desktop AI workbench (0.2.0 public preview): governed agent execution over files / mail / calendar / knowledge — Work Steward plan orchestration, CaMeL-style data-flow gate, reversible context compaction; ExternalAgentBridge hosts Claude Code / Codex / OpenCode behind a reverse-MCP defense | [qianshou.octoooo.com](https://qianshou.octoooo.com) · repo private |
 | OctoAudit | Agent audit tooling, spun off from OctoDesk | private · demo on request |
 | OctoMCP / OctoMonitor | MCP tool governance / token·cost·session observability | private · demo on request |
